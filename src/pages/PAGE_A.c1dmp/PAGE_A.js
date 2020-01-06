@@ -1,5 +1,6 @@
 $w.onReady(() => {
     $w('#text2').text = 'Meh!';
-    console.log('Last Log');
-    console.log('One More Last Log');
+    //--------- feature A1 start -----------
+    console.log('feature-a1');
+    //--------------------------------------
 })
