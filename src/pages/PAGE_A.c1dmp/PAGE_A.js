@@ -5,4 +5,5 @@ $w.onReady(() => {
      //--------- feature A2 start -----------
      console.log('feature-a2');
      //--------------------------------------
+     console.log('meh');
 })
